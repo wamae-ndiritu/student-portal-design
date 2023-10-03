@@ -1,7 +1,9 @@
+import Login from "./Login";
+
 function App() {
   return (
     <div>
-      <h4 className='text-green-500'>Hello friend</h4>
+      <Login />
     </div>
   );
 }

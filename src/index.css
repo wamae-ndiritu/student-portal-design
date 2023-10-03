@@ -8,3 +8,23 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.text-color-main{
+  color: #275e59;
+}
+
+.text-light-green{
+  color: #289d7a;
+}
+
+.bg-light-main{
+  background-color: #289d7a;
+}
+
+.bg-color-main{
+  background-color: #275e59;
+}
+
+.border-focus{
+ border: 3px solid #275e59; 
+}
