@@ -1,6 +1,7 @@
 import React from "react";
 import Hero from "../components/Hero";
 import TopHeader from "../components/TopHeader";
+import Stats from "../components/Stats";
 
 const CoursesPage = () => {
   const title = "Hello, Anne";
@@ -11,6 +12,12 @@ const CoursesPage = () => {
     <div>
       <TopHeader />
       <Hero title={title} description={description} image={image} />
+      <Stats
+        studentName={"Wamae Ndiritu"}
+        studentNumber={"0820301058"}
+        attendance={"90%"}
+        coursesEnrolled={3}
+      />
     </div>
   );
 };

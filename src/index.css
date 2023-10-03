@@ -33,4 +33,20 @@
 .bg-sect{
   background-color: #d3eef6;
 }
+
+.stat-card-1{
+  background: linear-gradient(to right, #D0D1D3, #0378C8, #008FD1);
+}
+
+.stat-card-2{
+  background: linear-gradient(to right, #8B729C, #8165B0, #7664AC);
+}
+
+.stat-card-3{
+  background: linear-gradient(to right, #F77D30, #F79F23, #FDB813);
+}
+
+.stat-card-4{
+  background: linear-gradient(to right, #00A551, #00A551, #00A551);
+}
 /* Hero section */
