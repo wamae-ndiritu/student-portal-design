@@ -12,7 +12,7 @@ const Login = () => {
             <img
               src='/assets/images/image-1.jpeg'
               alt='Logo'
-              className='w-24 h-24 mb-4'
+              className='w-18 h-24 mb-4'
             />
           </div>
           <h4 className='text-2xl'>Welcome to</h4>
