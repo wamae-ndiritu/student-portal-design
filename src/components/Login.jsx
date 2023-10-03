@@ -6,7 +6,7 @@ const Login = () => {
       className='bg-cover bg-center h-screen flex items-center justify-center'
       style={{ backgroundImage: "url('/assets/images/image-2.jpeg')" }}
     >
-      <div className='flex w-3/5 bg-white rounded-lg shadow-lg'>
+      <div className='flex flex-col mt-64 md:mt-0 md:flex-row md:w-3/5 bg-white rounded-lg shadow-lg'>
         <div className='flex-1 pr-8 bg-color-main p-8 text-white'>
           <div className='w-full flex justify-end'>
             <img
