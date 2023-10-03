@@ -1,6 +1,6 @@
 import React from "react";
-import TopHeader from "../TopHeader";
-import Login from "../Login";
+import TopHeader from "../components/TopHeader";
+import Login from "../components/Login";
 
 const LoginPage = () => {
   return (
