@@ -2,6 +2,7 @@ import React from "react";
 import Hero from "../components/Hero";
 import TopHeader from "../components/TopHeader";
 import Stats from "../components/Stats";
+import StudentsTable from "../components/tables/StudentsTable";
 
 const CoursesPage = () => {
   const title = "Hello, Anne";
@@ -18,6 +19,7 @@ const CoursesPage = () => {
         attendance={"90%"}
         coursesEnrolled={3}
       />
+      <StudentsTable />
     </div>
   );
 };
